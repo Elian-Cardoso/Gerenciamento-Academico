@@ -1,17 +1,14 @@
-Sistema de Gerenciamento Acadêmico
+🎓 Sistema de Gerenciamento Acadêmico em Java
+Este projeto simples em Java foi criado para ajudar iniciantes a entender conceitos básicos de programação orientada a objetos, como herança, polimorfismo e uso de listas.
 
+✨ O que o sistema faz?
+👩‍🏫 Cria objetos do tipo Professor e Aluno, que herdam da classe Pessoa.
 
-Este projeto é um sistema simples em Java para gerenciar turmas, professores e alunos.
-Ele demonstra conceitos básicos de orientação a objetos, como herança, sobrescrita de métodos e uso de listas.
+📚 Cria Turmas com um professor responsável.
 
-Funcionalidades:
+➕ Adiciona alunos nas turmas e lista os alunos matriculados.
 
-Cadastro de professores e alunos.
+🔐 Cada tipo de usuário tem um método de login personalizado que exibe mensagens diferentes.
 
-Associação de alunos a turmas.
-
-Impressão dos alunos matriculados em cada turma.
-
-Método de login personalizado para professores e alunos.
-
-Feito como exercício para aprendizado inicial em Java.
+🎯 Para que serve este projeto?
+É um exercício inicial para quem está começando a programar em Java e quer entender na prática conceitos como herança e coleções simples.
